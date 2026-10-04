@@ -42,7 +42,12 @@ I am a student learning programming and PCB design. I made this site as my first
 There is nothing to install and no build step.
 
 ## Project structure
-
+```text
+my-portfolio/
+  index.html   page content and structure
+  style.css    all the styling
+  README.md    this file
+```
 ## How it is deployed
 
 The site is hosted with GitHub Pages from the `main` branch, root folder. Every push to `main` updates the live site after a minute or two.
