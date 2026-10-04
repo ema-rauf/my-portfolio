@@ -42,3 +42,23 @@ I am a student learning programming and PCB design. I made this site as my first
 There is nothing to install and no build step.
 
 ## Project structure
+
+## How it is deployed
+
+The site is hosted with GitHub Pages from the `main` branch, root folder. Every push to `main` updates the live site after a minute or two.
+
+## What I learned
+
+- How HTML tags structure a page
+- How to style with classes and ids in CSS
+- How to use Flexbox for layout
+- How to use git and GitHub with frequent commits
+- How to deploy a static site
+
+## AI usage
+
+I used an AI assistant to explain HTML and CSS concepts, to get a starter layout, and to help with git and deployment steps. I then changed the code, wrote my own content, and styled it myself.
+
+## Author
+
+Eman Abdulrauf, https://github.com/ema-rauf
